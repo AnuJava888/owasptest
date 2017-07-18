@@ -1,0 +1,147 @@
+<classpath>
+  <classpathentry kind="var"
+    path="M2_REPO/org/owasp/esapi/esapi/2.1.0.1/esapi-2.1.0.1.jar" >
+    <attributes>
+      <attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var"
+    path="M2_REPO\junit\junit\3.8.1\junit-3.8.1.jar" >
+    <attributes>
+     <attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var"
+    path="M2_REPO\commons-configuration\commons-configuration\1.10\commons-configuration-1.10.jar" >
+    <attributes>
+     <attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var"
+    path="M2_REPO\commons-lang\commons-lang\2.6\commons-lang-2.6.jar" >
+    <attributes>
+     <attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var"
+    path="M2_REPO\commons-logging\commons-logging\1.1.1\commons-logging-1.1.1.jar" >
+    <attributes>
+     <attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var"
+    path="M2_REPO\commons-beanutils\commons-beanutils-core\1.8.3\commons-beanutils-core-1.8.3.jar" >
+    <attributes>
+     <attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var"
+    path="M2_REPO\commons-fileupload\commons-fileupload\1.3.1\commons-fileupload-1.3.1.jar" >
+    <attributes>
+     <attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var"
+    path="M2_REPO\commons-io\commons-io\2.2\commons-io-2.2.jar" >
+    <attributes>
+     <attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var"
+    path="M2_REPO\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar" >
+    <attributes>
+     <attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var"
+    path="M2_REPO\log4j\log4j\1.2.17\log4j-1.2.17.jar" >
+    <attributes>
+     <attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var"
+    path="M2_REPO\xom\xom\1.2.5\xom-1.2.5.jar" >
+    <attributes>
+     <attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var"
+    path="M2_REPO\xml-apis\xml-apis\1.3.03\xml-apis-1.3.03.jar" >
+    <attributes>
+     <attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var"
+    path="M2_REPO\xerces\xercesImpl\2.8.0\xercesImpl-2.8.0.jar" >
+    <attributes>
+     <attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var"
+    path="M2_REPO\xalan\xalan\2.7.0\xalan-2.7.0.jar" >
+    <attributes>
+     <attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var"
+    path="M2_REPO\org\beanshell\bsh-core\2.0b4\bsh-core-2.0b4.jar" >
+    <attributes>
+     <attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var"
+    path="M2_REPO\org\owasp\antisamy\antisamy\1.5.3\antisamy-1.5.3.jar" >
+    <attributes>
+     <attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+    </attributes>
+  </classpathentry>
+ <classpathentry kind="var"
+    path="M2_REPO\org\apache\xmlgraphics\batik-css\1.8\batik-css-1.8.jar" >
+    <attributes>
+     <attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+    </attributes>
+  </classpathentry> 
+  <classpathentry kind="var"
+    path="M2_REPO\org\apache\xmlgraphics\batik-ext\1.8\batik-ext-1.8.jar" >
+    <attributes>
+     <attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var"
+    path="M2_REPO\org\apache\xmlgraphics\batik-util\1.8\batik-util-1.8.jar" >
+    <attributes>
+     <attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var"
+    path="M2_REPO\xml-apis\xml-apis-ext\1.3.04\xml-apis-ext-1.3.04.jar" >
+    <attributes>
+     <attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var"
+    path="M2_REPO\net\sourceforge\nekohtml\nekohtml\1.9.16\nekohtml-1.9.16.jar" >
+    <attributes>
+     <attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var"
+    path="M2_REPO\commons-httpclient\commons-httpclient\3.1\commons-httpclient-3.1.jar" >
+    <attributes>
+     <attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var"
+    path="M2_REPO\commons-codec\commons-codec\1.2\commons-codec-1.2.jar" >
+    <attributes>
+     <attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var"
+    path="M2_REPO\javax\servlet\javax.servlet-api\4.0.0-b01\javax.servlet-api-4.0.0-b01.jar" >
+    <attributes>
+     <attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+    </attributes>
+  </classpathentry>
+  
+</classpath>
